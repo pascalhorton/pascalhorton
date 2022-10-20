@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalhorton&hide_title=true&count_private=true&show_icons=true&include_all_commits=true&text_bold=false)](https://github.com/pascalhorton)
 
+<!--
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascalhorton&layout=compact&hide_title=true&langs_count=8)](https://github.com/pascalhorton)
-
+-->
